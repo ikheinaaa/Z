@@ -1,7 +1,7 @@
 ---
-title: "Disclaimer"
-layout: default
-permalink: "/disclaimer"
+layout: page
+title: Disclaimer
+permalink: /disclaimer
 ---
 
 Disclaimer
